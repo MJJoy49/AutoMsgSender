@@ -11,7 +11,7 @@ Auto Message Sender is a Windows Forms application that allows users to automati
 ## Screenshots
 
 ### Login part
-If you double click inside that logo here you will get this application secret name and password-_-
+**If you double click inside that logo here you will get this application secret name and password-_-**
 ![Countdown Notification](./images/1.jpg)
 
 ### Main Part
@@ -25,7 +25,7 @@ If you double click inside that logo here you will get this application secret n
 
 ### Installation Steps:
 
-1. Download AutoMsgSetup.exe file from the repository.
+1. Download `AutoMsgSetup.exe` file from the repository.
 2. Run the `AutoMsgSetup.exe` file to launch the application.
 3. # ENJOY +_+
 
