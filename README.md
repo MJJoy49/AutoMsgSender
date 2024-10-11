@@ -35,10 +35,12 @@ Auto Message Sender is a Windows Forms application that allows users to automati
 
 1. **Open the application**: Once installed, open the Auto Message Sender application.
 2. **1st Login**: Login with secret name and password.
-3. **Enter your message**: Type the message you want to send repeatedly in the message field.
-4. **Specify the number of times**: In the `Number of Messages` field, enter how many times you'd like the message to be sent.
-5. **Click the Send button**: Once you're ready, click the "Send" button, and the app will show a countdown before sending the messages automatically.
-6. **Confirmation**: After all the messages are sent, you'll receive a "Message sent successfully" notification.
+3. **Access Secret Name and Password**: Double-click inside the logo to reveal this application secret name and password.
+4. **Enter your message**: Type the message you want to send repeatedly in the message field.
+5. **Specify the number of times**: In the `Number of Messages` field, enter how many times you'd like the message to be sent.
+6. **Click the Send button**: Once you're ready, click the "Send" button, and the app will show a countdown (5 to 1) before sending the messages automatically.
+7. **Within this 5-second countdown**: Place your mouse cursor in the message box of the person you are messaging (e.g., in the Facebook, WhatsApp, or any other messaging platform's text box where you usually type messages).
+8. **Confirmation**: After all the messages are sent, you'll receive a "Message sent successfully" notification.
 
 ## Author
 This project was developed by MJ Joy. 
