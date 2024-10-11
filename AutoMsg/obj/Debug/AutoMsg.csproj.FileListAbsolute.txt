@@ -1,0 +1,12 @@
+J:\c#_all\vstudio\Autom\AutoMsg\bin\Debug\AutoMsg.exe.config
+J:\c#_all\vstudio\Autom\AutoMsg\bin\Debug\AutoMsg.exe
+J:\c#_all\vstudio\Autom\AutoMsg\bin\Debug\AutoMsg.pdb
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.csproj.AssemblyReference.cache
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.Login.resources
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.Properties.Resources.resources
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.csproj.GenerateResource.cache
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.csproj.CoreCompileInputs.cache
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.exe
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.pdb
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.UnlockDetails.resources
+J:\c#_all\vstudio\Autom\AutoMsg\obj\Debug\AutoMsg.MainForm.resources
